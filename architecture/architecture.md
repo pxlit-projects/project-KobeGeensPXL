@@ -1,7 +1,2 @@
 # Architecture
-
-:heavy_check_mark:_(COMMENT) Add a description of the architecture of your application and create a diagram like the one below. Link to the diagram in this document._
-
-![eShopOnContainers Architecture](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/media/eshoponcontainers-development-architecture.png)
-
-[Source](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/introduce-eshoponcontainers-reference-app)
+![Java drawio_5](https://github.com/user-attachments/assets/78396bf0-55e9-47ba-aa29-c50ba90c75d8)
